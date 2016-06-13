@@ -1,0 +1,11 @@
+﻿Build started 5/16/2016 10:24:30 AM.
+     1>Project "C:\Users\cortl\Desktop\C++Fun\Practice1\Practice1\Practice1.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\cortl\Desktop\C++Fun\Practice1\Debug\Practice1.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\cortl\Desktop\C++Fun\Practice1\Debug\Practice1.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\cortl\Desktop\C++Fun\Practice1\Debug\Practice1.lib" /MACHINE:X86 Debug\defaultarguments.obj
+     1>defaultarguments.obj : error LNK2019: unresolved external symbol "int __cdecl findPerimeter(int,int)" (?findPerimeter@@YAHHH@Z) referenced in function _main
+     1>C:\Users\cortl\Desktop\C++Fun\Practice1\Debug\Practice1.exe : fatal error LNK1120: 1 unresolved externals
+     1>Done Building Project "C:\Users\cortl\Desktop\C++Fun\Practice1\Practice1\Practice1.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:02.16
